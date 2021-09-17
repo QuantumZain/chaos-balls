@@ -3,5 +3,8 @@ Balls bouncing inside of a circle. This was inspired by a similar Numberphile vi
 
 ## Requirements
 - python 3.9
-- pygame
+Using pip install these packages:
+- pygame. 
+```pip install pygame```
 - numpy (not sure but get it just in case)
+```pip install numpy```
