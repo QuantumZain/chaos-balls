@@ -150,6 +150,8 @@ def draw_cricle(color, radius, thicc, posx, posy):
     pygame.draw.circle(screen, color, (posx, posy), radius, thicc)
 
 
+# in here you can define the ball as you like using the template below or uncomment the predefined ones. you can add as many objects as you wish
+# template = Balls("name", color, radius, thickness, x-coordinate, y-coordinate, [sound file optional])
 
 # redball   = Balls("red ball", red, 8, 0, width//2-bigr+20, height//2-59, "bm.wav")
 # redball   = Balls("red ball", golden, 8, 0, width//2-bigr+21, height//2-59, "bm.wav")
