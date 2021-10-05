@@ -17,3 +17,7 @@ Using pip install these packages:
 Simply run the chaos_balls.py file either by double clicking it or
 
 ```py chaos_balls.py```
+
+## features
+
+To Add/Remove balls and manipulate their properties, i.e velocity, position, etc you can do so by opening the file and following the comments for help.
