@@ -11,3 +11,9 @@ Using pip install these packages:
 - numpy (not sure but get it just in case)
 
 ```pip install numpy```
+
+## Run
+
+Simply run the chaos_balls.py files either by double clicking it or
+
+```py chaos_balls.py```
