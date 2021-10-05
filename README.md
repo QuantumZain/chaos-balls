@@ -14,6 +14,6 @@ Using pip install these packages:
 
 ## Run
 
-Simply run the chaos_balls.py files either by double clicking it or
+Simply run the chaos_balls.py file either by double clicking it or
 
 ```py chaos_balls.py```
